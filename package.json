@@ -1,0 +1,22 @@
+{
+  "name": "video_creator_robot",
+  "version": "1.0.0",
+  "description": "Robos para criação de vídeos para o youtube, baseado no trabalho do Felipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dspippi/Video_creator_robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dspippi/Video_creator_robot/issues"
+  },
+  "homepage": "https://github.com/dspippi/Video_creator_robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
